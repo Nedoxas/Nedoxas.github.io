@@ -6,10 +6,31 @@
     <description>My Hugo Site (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Dec 2023 16:04:59 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2023 16:47:59 +0200</lastBuildDate>
     
     <atom:link href="https://Nedoxas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KitasPuslapis</title>
+      <link>https://Nedoxas.github.io/posts/kitaspuslapis/</link>
+      <pubDate>Sun, 10 Dec 2023 16:47:59 +0200</pubDate>
+      
+      <guid>https://Nedoxas.github.io/posts/kitaspuslapis/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://Nedoxas.github.io/posts/images/img.jpg&#34; alt=&#34;the image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;static long CalculateFactorial(int n)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{
+    if (n == 0 || n == 1)
+    {
+        return 1;
+    }
+    else
+    {
+        return n * CalculateFactorial(n - 1);
+    }
+}&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>Sukurtas Puslapis</title>
